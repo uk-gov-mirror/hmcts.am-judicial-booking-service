@@ -30,7 +30,7 @@ def versions = [
         rest_assured       : '5.5.6',
         cucumber           : '5.7.0',
         feign_jackson      : '13.6',
-        jacksondata        : '2.19.2',
+        jacksondata        : '2.20.1',
         befta              : '9.2.4'
 ]
 
